@@ -1,0 +1,35 @@
+input#submit{
+	font-weight: normal;
+}
+table{
+	font-size: 14px;
+    margin: 0 0 20px 0;
+    background-color: #fbfbfb;
+    padding: 20px;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+table.form-table th {
+    padding: 20px 10px 20px 10px;
+}
+table#storedata {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#storedata td, #storedata th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+#storedata tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.sunarcwpdb_delete{
+  color: #a00;
+}
+.form-table td p {
+  font-style: italic;
+}
